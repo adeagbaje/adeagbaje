@@ -8,19 +8,19 @@ You can check out my LinkedIn profile on https://linkedin.com/in/adeagbaje/
 
 ## Skills and Experience
 
-*Microsoft Power BI
+- Microsoft Power BI
 
-*SQL
+- SQL
 
-*Excel
+- Excel
 
-*Power Query
+- Power Query
 
-*Python
+- Python
 
-*HTML
+- HTML
 
-*CSS
+- CSS
 
 
 - 🔭 I’m currently working on this page. 
