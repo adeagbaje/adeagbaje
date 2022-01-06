@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I'm Adekunle Agbaje
+
+A Microsoft Certified Data Analyst with a strong background in Business Intelligence, Data Analytics, and Customer Services. I am currently building expertise in Analytics Engineering as I am interested in building data pipelines and using data generated daily by businesses to uncover useful insights, answer business questions, and make data-driven decisions.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adeagbaje)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **adeagbaje/adeagbaje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
