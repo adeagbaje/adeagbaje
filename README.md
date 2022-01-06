@@ -6,7 +6,7 @@ A Microsoft Certified Data Analyst with a strong background in Business Intellig
 
 You can check out my LinkedIn profile on https://linkedin.com/in/adeagbaje/
 
-Skills: 
+## Skills: 
 Microsoft Power BI
 SQL
 Excel
