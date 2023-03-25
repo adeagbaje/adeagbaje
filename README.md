@@ -2,9 +2,7 @@
 
 # Adekunle Agbaje
 
-A Microsoft Certified Data Analyst with a strong background in Business Intelligence, Data Analytics, and Customer Services. Currently building expertise in Cloud Computing and Analytics Engineering.
-
-You can check out my LinkedIn profile on https://linkedin.com/in/adeagbaje/
+A Microsoft Certified Data Analyst with a strong background in Business Intelligence, Data Analytics, and Customer Services. Currently building expertise in Cloud Computing.
 
 ## Skills and Experience
 
