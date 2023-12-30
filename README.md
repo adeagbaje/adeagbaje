@@ -2,7 +2,7 @@
 
 # Adekunle Agbaje
 
-A Microsoft Certified Data Analyst with a strong background in Business Intelligence, Data Analytics, and Customer Services. Currently building expertise in Cloud Computing.
+Experienced Data professional with a demonstrated history of working in the Financial Services, Oil and Energy Logistics, and Information/Digital Technology industry. Strong information technology professional with a passion for turning raw data into valuable insights to drive informed decision-making.
 
 ## Skills and Experience
 
